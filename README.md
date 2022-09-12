@@ -6,8 +6,8 @@ When a user views current weather conditions for that city. Then they are presen
 
 # screenshot 
 
-!(screenshot)[/assets/imgs/weather-dash-img.png]
+![](/assets/imgs/weather-dash-img.png)
 
 # Link 
 
-()[]
+[]()
