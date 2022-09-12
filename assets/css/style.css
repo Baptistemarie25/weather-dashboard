@@ -1,0 +1,17 @@
+*   {
+margin: 0px;
+}
+
+header {
+    text-align: center;
+    color: green;
+    background-color: greenyellow;
+}
+
+#search-section {
+    margin: 20px 10px;
+}
+
+#weather-container {
+    display: none;
+}
